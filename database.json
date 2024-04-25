@@ -1,0 +1,233 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "James David West",
+			"email": "jdw@email.com",
+			"phoneNumber": 6155555555,
+			"address": "123 Address Ave Nashville, TN 37011"
+		}
+	],
+	"projects": [
+		{
+			"id": 1,
+			"title": "Knock down joining wall",
+			"description": "Knock down the wall joining the kitchen and dining room",
+			"imageURL": "https://imgs.search.brave.com/otE1oT4O8lzTgr1R_Nn1LVBvzWdQRiRtrNUW6pnd5kE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bXlkb21haW5lLmNv/bS90aG1iL1VVMG5l/OXJ3TmpZNGlVWWdI/a004Mkh6OXI2Yz0v/MTA4MHgwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOnN0cmlwX2lj/YygpLzgzOTA4NDQ4/XzE4NzgyNzg0ODk2/MTQ5M181NjkyMzE5/NDk4OTQyNDM3NDVf/bi1kN2NiNmY5ZTdl/MzU0ZjJjOTdkNzY1/YjlkNDMwYzJlNy5q/cGc",
+			"startDate": "2024-04-25",
+			"endDate": "",
+			"statusId": "",
+			"locationId": null,
+			"userId": 1
+		}
+	],
+	"projectStatus": [
+		{
+			"id": 1,
+			"name": "Completed"
+		},
+		{
+			"id": 2,
+			"name": "Cancelled"
+		},
+		{
+			"id": 3,
+			"name": "Ongoing"
+		},
+		{
+			"id": 4,
+			"name": "Planning Stage"
+		}
+	],
+	"roomLocation": [
+		{
+			"id": 1,
+			"roomName": "Living Room"
+		},
+		{
+			"id": 2,
+			"roomName": "Dining Room"
+		},
+		{
+			"id": 3,
+			"roomName": "Kitchen"
+		},
+		{
+			"id": 4,
+			"roomName": "Bedroom"
+		},
+		{
+			"id": 5,
+			"roomName": "Bathroom"
+		},
+		{
+			"id": 6,
+			"roomName": "Home Office"
+		},
+		{
+			"id": 7,
+			"roomName": "Laundry Room"
+		},
+		{
+			"id": 8,
+			"roomName": "Garage"
+		},
+		{
+			"id": 9,
+			"roomName": "Basement"
+		},
+		{
+			"id": 10,
+			"roomName": "Attic"
+		},
+		{
+			"id": 11,
+			"roomName": "Study"
+		},
+		{
+			"id": 12,
+			"roomName": "Playroom"
+		},
+		{
+			"id": 13,
+			"roomName": "Guest Room"
+		},
+		{
+			"id": 14,
+			"roomName": "Library"
+		},
+		{
+			"id": 15,
+			"roomName": "Sunroom"
+		}
+	],
+	"supplies": [
+		{
+			"id": 1,
+			"name": "caulk",
+			"costEach": 3.99,
+			"projectId": null
+		},
+		{
+			"id": 2,
+			"name": "drop cloth",
+			"costEach": 12.49,
+			"projectId": null
+		},
+		{
+			"id": 3,
+			"name": "drill",
+			"costEach": 89.99,
+			"projectId": null
+		},
+		{
+			"id": 4,
+			"name": "electrical tape",
+			"costEach": 2.99,
+			"projectId": null
+		},
+		{
+			"id": 5,
+			"name": "hammer",
+			"costEach": 10.99,
+			"projectId": null
+		},
+		{
+			"id": 6,
+			"name": "ladder",
+			"costEach": 69.99,
+			"projectId": null
+		},
+		{
+			"id": 7,
+			"name": "level",
+			"costEach": 14.99,
+			"projectId": null
+		},
+		{
+			"id": 8,
+			"name": "nails",
+			"costEach": 5.99,
+			"projectId": null
+		},
+		{
+			"id": 9,
+			"name": "paint",
+			"costEach": 29.99,
+			"projectId": null
+		},
+		{
+			"id": 10,
+			"name": "paintbrush",
+			"costEach": 6.99,
+			"projectId": null
+		},
+		{
+			"id": 11,
+			"name": "plumbing wrench",
+			"costEach": 19.99,
+			"projectId": null
+		},
+		{
+			"id": 12,
+			"name": "power sander",
+			"costEach": 49.99,
+			"projectId": null
+		},
+		{
+			"id": 13,
+			"name": "safety glasses",
+			"costEach": 9.99,
+			"projectId": null
+		},
+		{
+			"id": 14,
+			"name": "sandpaper",
+			"costEach": 7.99,
+			"projectId": null
+		},
+		{
+			"id": 15,
+			"name": "saw",
+			"costEach": 59.99,
+			"projectId": null
+		},
+		{
+			"id": 16,
+			"name": "screwdriver",
+			"costEach": 4.99,
+			"projectId": null
+		},
+		{
+			"id": 17,
+			"name": "tape measure",
+			"costEach": 8.99,
+			"projectId": null
+		},
+		{
+			"id": 18,
+			"name": "tarps",
+			"costEach": 17.99,
+			"projectId": null
+		},
+		{
+			"id": 19,
+			"name": "work gloves",
+			"costEach": 12.99,
+			"projectId": null
+		},
+		{
+			"id": 20,
+			"name": "wood glue",
+			"costEach": 4.99,
+			"projectId": null
+		}
+	],
+	"userProjects": [
+		{
+			"id": 1,
+			"userId": 1,
+			"projectId": 1
+		}
+	]
+}
